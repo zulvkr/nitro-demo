@@ -2,7 +2,7 @@ import { version as nitroVersion } from '@nuxt/nitro/package.json'
 
 export default {
   components: true,
-  target: 'static',
+  // target: 'static',
 
   buildModules: [
     '@nuxt/bridge'
